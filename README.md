@@ -1,6 +1,6 @@
-# plantillaFlexGrid
+# Desde la PlantillaFlexGrid
 
-### Plantilla pensada para hacer un Fork
+### Menú Principal para Escritorio
 (Concepto Plantilla/Template)
 
 __Tecnología integrada__
